@@ -1,0 +1,1 @@
+the drone.py is the python script which is to be uploaded on the flight computer that is raspberry pi and astar.py is the python script that is to be ran on the ground control station laptop for generating the path for the drone.
